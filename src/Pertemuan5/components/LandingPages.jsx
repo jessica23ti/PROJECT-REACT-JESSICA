@@ -30,7 +30,7 @@ export default function LandingPages() {
 
         <div className="hidden sm:block flex justify-center items-center sm:w-1/2">
           <img
-            src="/img/Screenshot_2025-05-15_074031-removebg-preview.png" // ada di public. edit aja agar jauh lebih menarik di figma
+            src="" // ada di public. edit aja agar jauh lebih menarik di figma
             alt="Landing Page Image"
             className="w-full h-auto"
           />
